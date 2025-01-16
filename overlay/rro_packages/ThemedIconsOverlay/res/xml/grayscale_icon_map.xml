@@ -588,6 +588,7 @@
     <icon drawable="@drawable/themed_icon_instagram" package="com.instagram.android"/>
     <icon drawable="@drawable/themed_icon_instagram" package="com.instander.android"/>
     <icon drawable="@drawable/themed_icon_instagram" package="com.instapro.android"/>
+    <icon drawable="@drawable/themed_icon_honista" package="cc.honista.app"/>
     <icon drawable="@drawable/themed_icon_instapaper" package="com.instapaper.android"/>
     <icon drawable="@drawable/themed_icon_inter" package="br.com.intermedium"/>
     <icon drawable="@drawable/themed_icon_intersvyaz" package="com.intersvyaz.lk"/>
